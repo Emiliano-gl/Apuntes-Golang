@@ -15,12 +15,12 @@ func main() {
 	/*
 		Tipos de datos:
 
-		Números enteros: 					byte, int, int8, int16, int32, int64
+		Números enteros: 			byte, int, int8, int16, int32, int64
 		Números enteros solo positivos: 	uint, uint8, uint16, uint32, uint64
-		Números decimales: 					float32, float64
-		Números complejos: 					complex64, complex128
-		Booleanos: 							bool
-		Texto: 								string
+		Números decimales: 			float32, float64
+		Números complejos: 			complex64, complex128
+		Booleanos: 				bool
+		Texto: 					string
 	*/
 
 	// Declaración de variables y su tipo
